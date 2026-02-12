@@ -27,8 +27,7 @@ If you like any of my open-source projects you see below, please give them a sta
 My name is **Antoni**, I'm building:
 
 - The Future of Customer Support @ [FutureBase.io](https://futurebase.io)
-- Don't let your competitors win. Analyze your competitors using [CompetiTaurus.com](https://competitaurus.com)
-- Fully-featured shadcn/ui design systems for Award-Winning websites @ [quassum.design](https://quassum.design/)
+- Shadcn/UI for Award-Winning websites @ (coming soon)
 
 <!--
 If you'd like to learn more about me, you can check out my [CV here](https://antoni.cv) <br/>
