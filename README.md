@@ -27,7 +27,8 @@ If you like any of my open-source projects you see below, please give them a sta
 My name is **Antoni**, I'm building:
 
 - The Future of Customer Support @ [FutureBase.io](https://futurebase.io)
-- Clone Anything on the Web to Claude or Figma @ [Pluck.so](https://www.pluck.so/) 
+- Clone Anything on the Web to Claude or Figma @ [Pluck.so](https://www.pluck.so/)
+- No more writing Linear tickets @ [SpecSource.ai](https://www.specsource.ai/)
 - Shadcn/UI for Award-Winning websites @ (coming soon)
 
 <!--
