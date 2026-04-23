@@ -29,6 +29,7 @@ My name is **Antoni**, I'm building:
 - The Future of Customer Support @ [FutureBase.io](https://futurebase.io)
 - Clone Anything on the Web to Claude or Figma @ [Pluck.so](https://www.pluck.so/)
 - No more writing Linear tickets @ [SpecSource.ai](https://www.specsource.ai/)
+- Squircles on the web @ [squircle.js.org](https://squircle.js.org/)
 - Shadcn/UI for Award-Winning websites @ (coming soon)
 
 <!--
