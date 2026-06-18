@@ -86,7 +86,7 @@ Frontend Developer with **+3 years** of experience blending design and engineeri
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FadyEmad01&theme=react&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=FadyEmad01&theme=react&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ Frontend Developer with **+3 years** of experience blending design and engineeri
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FadyEmad01&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FadyEmad01&theme=react&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ## 📫 Contact
