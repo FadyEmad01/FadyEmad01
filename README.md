@@ -50,10 +50,10 @@ Frontend Developer with **+3 years** of experience blending design and engineeri
 
 <p align="center">
   <a href="https://github.com/FadyEmad01/Fixel-UI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FadyEmad01&repo=Fixel-UI&theme=tokyonight&hide_border=true" alt="Fixel-UI" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FadyEmad01&repo=Fixel-UI&bg_color=F8F8F7&title_color=000000&text_color=000000&hide_border=true" alt="Fixel-UI" />
   </a>
   <a href="https://github.com/FadyEmad01/tactix-front">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FadyEmad01&repo=tactix-front&theme=tokyonight&hide_border=true" alt="tactix-front" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FadyEmad01&repo=tactix-front&bg_color=F8F8F7&title_color=000000&text_color=000000&hide_border=true" alt="tactix-front" />
   </a>
 </p>
 
@@ -72,7 +72,7 @@ Frontend Developer with **+3 years** of experience blending design and engineeri
 
 <p align="center">
   <!-- <img src="https://img.shields.io/badge/Profile%20Views-000?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"> -->
-  <img src="https://komarev.com/ghpvc/?username=FadyEmad01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FadyEmad01&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/FadyEmad01?style=for-the-badge&logo=github&color=0e75b6" alt="Followers">
   <img src="https://img.shields.io/github/stars/FadyEmad01?style=for-the-badge&logo=github&color=gold" alt="Stars">
   <img src="https://img.shields.io/badge/PRs-50-blue?style=for-the-badge&logo=github" alt="PRs">
@@ -81,12 +81,12 @@ Frontend Developer with **+3 years** of experience blending design and engineeri
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FadyEmad01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadyEmad01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FadyEmad01&show_icons=true&bg_color=F8F8F7&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadyEmad01&layout=compact&bg_color=F8F8F7&title_color=000000&text_color=000000&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FadyEmad01&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://streak-stats.demolab.com?user=FadyEmad01&background=F8F8F7&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ Frontend Developer with **+3 years** of experience blending design and engineeri
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FadyEmad01&theme=tokyonight&hide_border=true&hide_title=false&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FadyEmad01&bg_color=F8F8F7&color=000000&title_color=000000&line=000000&point=000000&area_color=ECECEC&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ## 📫 Contact
