@@ -32,7 +32,7 @@
 
 Frontend Developer with **+3 years** of experience blending design and engineering to build intuitive, high-performance web interfaces. I specialize in **Next.js**, **React**, **TypeScript**, and **Tailwind CSS** — crafting seamless digital experiences at the intersection of thoughtful design and robust engineering.
 
-## 🚀 What I'm building
+<!-- ## 🚀 What I'm building
 
 - **[Fixel UI](https://fixel-ui.vercel.app)** — Open-source shadcn/ui-compatible component registry with 59+ production-ready React primitives and 40+ SVG illustrations. Built with a copy-paste philosophy.
 - **[Tactix](https://tactix-front.vercel.app)** — AI-powered football tactical analysis platform with interactive SVG board editor, video analysis with FFmpeg WASM clip extraction, and AI-assisted analysis.
@@ -44,7 +44,7 @@ Frontend Developer with **+3 years** of experience blending design and engineeri
 **Core:** Next.js, React, TypeScript, Tailwind CSS, Node.js  
 **Animation:** Motion (Framer Motion), GSAP, Lenis  
 **UI:** shadcn/ui, Radix UI, CVA  
-**Tools:** Git, Biome, Zod, Zustand, PostgreSQL / Drizzle  
+**Tools:** Git, Biome, Zod, Zustand, PostgreSQL / Drizzle   -->
 
 ## ⭐ Featured Repos
 
@@ -57,14 +57,14 @@ Frontend Developer with **+3 years** of experience blending design and engineeri
   </a>
 </p>
 
-## 💼 Experience
+<!-- ## 💼 Experience
 
 | Period | Role | Company |
 |--------|------|---------|
 | 2025 — Present | Frontend Developer — Component Registry & UI Animations | **Fixel UI** |
 | Aug 2024 — Oct 2024 | Front-End Developer (junior) | **ITSP Group** |
 | Feb 2024 — May 2024 | Front-End Developer (Intern) | **Loc Camp** |
-| Nov 2023 — Apr 2024 | Assistant Instructor (Front-End) | **Instant** |
+| Nov 2023 — Apr 2024 | Assistant Instructor (Front-End) | **Instant** | -->
 
 **Education:** BSc in Computer Science @ Faculty of Computer and Artificial Intelligence, El Shorouk Academy (2022–2026)
 
