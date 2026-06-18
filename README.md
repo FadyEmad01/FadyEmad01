@@ -41,9 +41,9 @@ Frontend Developer with **+3 years** of experience blending design and engineeri
 
 ## 🛠️ Tech Stack
 
-**Core:** Next.js, React, TypeScript, Tailwind CSS, Node.js  
-**Animation:** Motion (Framer Motion), GSAP, Lenis  
-**UI:** shadcn/ui, Radix UI, CVA  
+**Core:** Next.js, React, TypeScript, Tailwind CSS, Node.js
+**Animation:** Motion (Framer Motion), GSAP, Lenis
+**UI:** shadcn/ui, Radix UI, CVA
 **Tools:** Git, Biome, Zod, Zustand, PostgreSQL / Drizzle   -->
 
 ## ⭐ Featured Repos
@@ -71,7 +71,8 @@ Frontend Developer with **+3 years** of experience blending design and engineeri
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-000?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views">
+  <!-- <img src="https://img.shields.io/badge/Profile%20Views-000?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"> -->
+  <img src="https://komarev.com/ghpvc/?username=FadyEmad01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/FadyEmad01?style=for-the-badge&logo=github&color=0e75b6" alt="Followers">
   <img src="https://img.shields.io/github/stars/FadyEmad01?style=for-the-badge&logo=github&color=gold" alt="Stars">
   <img src="https://img.shields.io/badge/PRs-50-blue?style=for-the-badge&logo=github" alt="PRs">
